@@ -1,42 +1,70 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Project README</title>
-</head>
-<body>
+# Project Name
 
-    <h1 align="center"> My Project</h1>
+student-info.
 
-    <p align="center">
-        A simple and short description of your project goes here.
-    </p>
+---
 
-    <hr>
+##  Project student image
+Student Photo
+     src="https://avatars.githubusercontent.com/u/251948112?v=4.jpg" alt="Student Photo" width="200"
 
-    <h2>Student Photo</h2>
-    <img src="https://avatars.githubusercontent.com/u/251948112?v=4.jpg" alt="Student Photo" width="200">
+   
 
-    <hr>
 
-    <h2> About</h2>
-    <p>
-        This project helps users perform tasks efficiently and easily.
-        It is lightweight, fast, and user-friendly.
-    </p>
+---
 
-    <hr>
+##  Features
 
-    <h2> Contact</h2>
-    <p>
-        Email: <a href="vishakhamokate2005@gmail.com">vishakhamokate2005@gmail.com</a>
-    </p>
+- Easy to use
+- Fast performance
+- Responsive design
 
-    <hr>
+---
 
-    <p align="center"> Thank you for checking out this project!</p>
+##  Installation
 
-</body>
-</html>
+1. Clone the repository  
+git clone https://github.com/your-username/project-name.git
+
+2. Go to the project folder  
+cd project-name
+
+3. Install dependencies  
+npm install
+
+---
+
+##  Usage
+
+Run the project:
+
+npm start
+
+---
+
+## 📂 Project Structure
+
+project-name/  
+│── src/  
+│── public/  
+│── image.png  
+│── README.md  
+
+---
+
+##  Contact
+
+If you have any questions, feel free to contact:
+
+Your Name Mokate Vishakha Somnath 
+Email: vishakhamokate2005@gmail.com  
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
 
