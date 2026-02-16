@@ -23,13 +23,13 @@ Student Photo
 
 ##  Installation
 
-1. Clone the repository  
-git clone https://github.com/your-username/project-name.git
+1. Clone the repository
+   
 
-2. Go to the project folder  
+3. Go to the project folder  
 cd project-name
 
-3. Install dependencies  
+4. Install dependencies  
 npm install
 
 ---
